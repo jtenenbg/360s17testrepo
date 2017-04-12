@@ -1,1 +1,1 @@
-file changed after branch
+file changed after branch CONFLICT
