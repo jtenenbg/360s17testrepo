@@ -1,4 +1,4 @@
-// Group 6 rocks!!
+// Group 2 rocks!!
 
 /* do we have to worry about other stuff in this file?
    like can we just add extra stuff for fun.
