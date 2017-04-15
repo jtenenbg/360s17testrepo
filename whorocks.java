@@ -1,2 +1,1 @@
-//Group 3 rocksÿ//Group 3 rocksþ//Group 3 rocks
-//Group 3 rocks
+// who really needs 20% anyway?
