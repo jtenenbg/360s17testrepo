@@ -1,1 +1,1 @@
-// Who rocks?
+// Group 6 Rocks!
