@@ -1,5 +1,9 @@
 Boom goes the dynamite
 sweet deal
 no potato vincent
+<<<<<<< HEAD
 No more
 which is correct
+=======
+this isn't correct
+>>>>>>> Jfried13
